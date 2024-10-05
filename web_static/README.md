@@ -1,1 +1,1 @@
-This folder contains HTML and CSS of AirBnB clone project
+This directory implements webpage design.

@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# script to delete out-of-date archives
+# script to delete out-of-date archives.
 import os
 from fabric.api import *
 
